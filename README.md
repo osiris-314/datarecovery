@@ -1,6 +1,6 @@
-Recovers deleted files from (usbs,drives,...)
+# Recovers deleted files from (usbs,drives,...)
 
-requires foremost tool to be installed:  apt install foremost
+## requires foremost tool to be installed:  apt install foremost
 
 usage: python datarecovery.py
 
